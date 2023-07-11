@@ -1,6 +1,6 @@
 # Gross and Net Pay Calculator
 
-The Gross and Net Pay Calculator is a simple web-based application that calculates the gross and net pay for an employee based on their salary and tax rate.
+The Gross and Net Pay Calculator is a simple web-based application that calculates the gross and net pay for an employee based on their salary and tax rate. I made this project when I was in College in one of my programming classes.
 
 ## Features
 
