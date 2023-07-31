@@ -4,7 +4,7 @@ The Gross and Net Pay Calculator is a simple web-based application that calculat
 
 ## Demo
 
-A live demo of the Gross and Net Pay Calculator can be found https://codepen.io/amcodes/full/GRwOaLM.
+A live demo of the Gross and Net Pay Calculator can be found https://codepen.io/amcodes/full/GRwOaLM. https://acabrerafondeur.github.io/Gross-and-Net-Pay-Calculator/
 
 ## Screenshots
 
